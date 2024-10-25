@@ -1,8 +1,7 @@
 # BOT Credentials
-API_ID = 123456
-API_HASH = "317v2nq9b..."
-API_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
-
+API_ID = 22419004
+API_HASH = "34982b52c4a83c2af3ce8f4fe12fe4e1"
+API_TOKEN = "7829701423:AAHr21mhT3XX2xh_oM-Jl2DP1dov05SvUlM"
 # Audio compression settings
 AUDIO_BITRATE = "32k"  
 AUDIO_FORMAT = "mp3" 
